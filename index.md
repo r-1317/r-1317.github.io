@@ -1,5 +1,5 @@
 # ポートフォリオ
-(2025年4月時点)
+(2025年12月時点)
 
 # プロフィール
 
@@ -34,7 +34,7 @@
 [https://atcoder.jp/contests/ajl2024summer](https://atcoder.jp/contests/ajl2024summer)
 
 
-# 経験・スキル・資格など
+# スキル・資格など
 
 ## プログラミング言語
 
@@ -60,6 +60,8 @@
 ## 資格など
 - TOEIC L&R 815 点取得
 
+- 統計検定 2級 合格
+
 
 # 成果物等
 
@@ -79,9 +81,9 @@
   単語リストの作成を担当<br>
   [https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html](https://yyf999999999.github.io/typingprot/pages/difficultySelecter.html) -->
  
--  **ThreadConnector** -2023年12月 完成<br>
+<!-- -  **ThreadConnector** -2023年12月 完成<br>
   [https://github.com/r-1317/ThreadConnector](https://github.com/r-1317/ThreadConnector)<br>
-  電子掲示板の複数partに別れたスレッドを結合するプログラム
+  電子掲示板の複数partに別れたスレッドを結合するプログラム -->
 
 <!--
 -  **Recall-Signature-Calculator** -2024年2月 完成<br>
