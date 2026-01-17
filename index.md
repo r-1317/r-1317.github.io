@@ -1,5 +1,5 @@
 # ポートフォリオ
-(2025年12月時点)
+(2026年1月時点)
 
 # プロフィール
 
@@ -13,15 +13,26 @@
 アルゴリズムは緑で、ヒューリスティックは水色<br>
 主にヒューリスティックに力を入れている<br>
 
-### 例: AHC042の解法
+### 例1: AHC059の解法
+数字をスタックに積み、その中で対消滅させていく問題<br>
+[chokudaiサーチ](https://chokudai.hatenablog.com/entry/2017/04/12/055515)を使用した。<br>
+結果は147位(744人中)<br>
+パフォーマンスは1872<br>
+![AtCoder Huristic Conetst 059 の解](img/AHC059_0000.gif)<br>
+[https://atcoder.jp/contests/ahc059/submissions/72330505](https://atcoder.jp/contests/ahc059/submissions/72330505)
+
+### 例2: AHC042の解法
 より少ない手数で、福神を落とさずに鬼をすべて落とすという問題<br>
 [chokudaiサーチ](https://chokudai.hatenablog.com/entry/2017/04/12/055515)を使用した。<br>
 結果は273位(1027人中)<br>
 ![AtCoder Huristic Conetst 042 の解](img/AHC042_0000.gif)<br>
 [https://atcoder.jp/contests/ahc042/submissions/62337542](https://atcoder.jp/contests/ahc042/submissions/62337542)
 
-<!-- ToDo: 例の追加(AHC036?) -->
+<!-- 例はそのうち更新する -->
 
+<!-- ここに卒業研究を追加したい -->
+
+<!-- AJLは高専を卒業したら下の方にやる予定 -->
 ## AtCoder Junior League 2024 Summer
 ### アルゴリズム部門
 - 高3個人部門　63位 (大阪3位)
